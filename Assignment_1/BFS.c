@@ -1,5 +1,5 @@
-//Name-Pratham Agrawal
-//PRN-22070521078
+//Name-Tanay Yaduka
+//PRN-22070521086
 
 #include <stdio.h>
 #include <stdlib.h>
