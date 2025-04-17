@@ -1,4 +1,4 @@
-# AI-LAB-Pratham-078
+# AI_LAB
 ## Subject: AI Lab
-## Name: Pratham Agrawal
-## PRN: 22070521078
+## Name: Tanay Yaduka
+## PRN: 22070521086
